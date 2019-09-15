@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int main()      
+
+{
+    printf("\a\n");
+    printf("\b\n");
+    printf("\c\n");
+    printf("\d\n");
+    printf("\e\n");
+    printf("\f\n");
+    printf("\g\n");
+    printf("\h\n");
+    printf("\i\n");
+    printf("\j\n");
+    printf("\k\n");
+    printf("\l\n");
+    printf("\m\n");
+    printf("\n\n");
+    printf("\o\n");
+    printf("\p\n");
+    printf("\q\n");
+    printf("\r\n");
+    printf("\s\n");
+    printf("\t\n");
+ //   printf("\u\n");
+    printf("\v\n");
+    printf("\w\n");
+  // printf("\x\n");
+    printf("\y\n");
+    printf("\z\n");
+    return 0;
+}
